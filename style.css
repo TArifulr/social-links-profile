@@ -41,7 +41,7 @@ img{
 
 /* main_frofile style */
 .main_frofile{
- max-width: 100%;
+  width: 23rem;
   background-color: var(--Grey800);
   padding: 2rem;
   border-radius: 0.6rem;
